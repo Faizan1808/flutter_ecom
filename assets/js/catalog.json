@@ -1,0 +1,260 @@
+{
+    "products" :[
+        {
+            "id": 1,
+            "name": "Apple iPhone 14 Pro Max (128 GB)",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SX342_.jpg",
+            "price": 127999,
+            "oPrice": "₹1,39,900"   
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 14 (512 GB) ",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX342_.jpg",
+            "price": 101999,
+            "oPrice": "₹1,09,900"   
+        },
+        {
+            "id": 3,
+            "name": "Apple AirPods (2nd Generation)",
+            "category": "Earpods",
+            "image": "https://m.media-amazon.com/images/I/7120GgUKj3L._SX522_.jpg",
+            "price": 10999,
+            "oPrice": "₹14,100"   
+        },
+        {
+            "id": 4,
+            "name": "Apple AirPods (3rd Generation)",
+            "category": "Earpod",
+            "image": "https://m.media-amazon.com/images/I/615ekapl+pL._SY355_.jpg",
+            "price": 18999,
+            "oPrice": "₹2000"   
+        },
+        {
+            "id": 5,
+            "name": "iPad Pro 12.9-inch (6th Generation)",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/81c+9BOQNWL._SX522_.jpg",
+            "price": 111900,
+            "oPrice": "₹1,12,900"
+        },
+        {
+            "id": 6,
+            "name": "Lenovo Tab M10 FHD Plus (3rd Gen)",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/41Qi4q8cL+L._SY300_SX300_.jpg",
+            "price": 21960,
+            "oPrice": "₹34,000"
+        },
+        {
+            "id": 7,
+            "name": "Apple Watch Series 8",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/71OylAZAe2L._SX522_.jpg",
+            "price": 49900,
+            "oPrice": "58,900"
+        },
+        {
+            "id": 8,
+            "name": "ASUS Vivobook 16X",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/71KEZ4zqOJL._SY355_.jpg",
+            "price": 47960,
+            "oPrice": "₹68,990"   
+        },
+        {
+            "id": 9,
+            "name": "ASUS (Renewed) ROG Phone 5",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/51QSRZGijML._SY606_.jpg",
+           " price": 40900,
+            "oPrice": "₹55,999"   
+        },
+        {
+            "id": 10,
+            "name": "Asus TUF Gaming A17",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/41N6hC-kIaL._SY300_SX300_QL70_FMwebp_.jpg",
+            "price": 73500,
+            "oPrice": "₹99,000"   
+        },
+        {
+            "id": 11,
+            "name": "ASUS ROG Strix G15",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/71d1w3ivZ9L._SY450_.jpg",
+            "price": 76990,
+            "oPrice": "₹1,05,990"   
+        },
+        {
+            "id": 12,
+            "name": "Fossil Nate Chronograph",
+            "category": "watch",
+            "image": "https://m.media-amazon.com/images/I/61fy+u9uqPL._SX679_.jpg",
+            "price": 22000,
+            "oPrice": "₹23,900"
+
+        },
+        {
+            "id": 13,
+            "name": "OnePlus 10 Pro",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/61mIUCd-37L._SL1500_.jpg",
+            "price": 19500,
+            "oPrice": "₹21,000"
+
+        },
+        {
+            "id": 14,
+            "name": "OnePlus 10 R",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_SS450_.jpg",
+            "price": 35000,
+            "oPrice": "₹38,499"
+
+        },
+        {
+            "id": 15,
+            "name": "OnePlus Nord 2T",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/617MPEZB5mL._SL1500_.jpg",
+            "price": 16500,
+            "oPrice": "₹19,000"
+
+        },
+        {
+            "id": 16,
+            "name": "OnePlus 11R 5G ",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/41g1pQr8xUL._SX300_SY300_QL70_FMwebp_.jpg",
+            "price": 40999,
+           " oPrice": "₹44,999"
+        },
+        {
+            "id": 17,
+            "name": "Apple iPhone 14 Pro Max (128 GB)",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._SX342_.jpg",
+            "price": 127999,
+            "oPrice": "₹1,39,900"   
+        },
+        {
+            "id": 18,
+            "name": "Apple iPhone 14 (512 GB) ",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX342_.jpg",
+            "price": 101999,
+            "oPrice": "₹1,09,900"   
+        },
+        {
+            "id": 19,
+            "name": "Apple AirPods (2nd Generation)",
+            "category": "Earpods",
+            "image": "https://m.media-amazon.com/images/I/7120GgUKj3L._SX522_.jpg",
+            "price": 10999,
+            "oPrice": "₹14,100"   
+        },
+        {
+            "id": 20,
+            "name": "Apple AirPods (3rd Generation)",
+            "category": "Earpod",
+            "image": "https://m.media-amazon.com/images/I/615ekapl+pL._SY355_.jpg",
+            "price": 18999,
+            "oPrice": "₹2000"   
+        },
+        {
+            "id": 21,
+            "name": "Apple 2022 12.9-inch iPad Pro (Wi-Fi, 128GB) - Space Grey (6th Generation)",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/81c+9BOQNWL._SX522_.jpg",
+            "price": 111900,
+            "oPrice": "₹1,12,900"
+        },
+        {
+            "id": 22,
+            "name": "Lenovo Tab M10 FHD Plus (3rd Gen)",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/41Qi4q8cL+L._SY300_SX300_.jpg",
+            "price": 21960,
+            "oPrice": "₹34,000"
+        },
+        {
+            "id": 23,
+            "name": "Apple Watch Series 8",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/71OylAZAe2L._SX522_.jpg",
+            "price": 49900,
+            "oPrice": "58,900"
+        },
+        {
+            "id": 24,
+            "name": "ASUS Vivobook 16X",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/71KEZ4zqOJL._SY355_.jpg",
+            "price": 47960,
+            "oPrice": "₹68,990"   
+        },
+        {
+            "id": 25,
+            "name": "Asus TUF Gaming A17",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/41N6hC-kIaL._SY300_SX300_QL70_FMwebp_.jpg",
+            "price": 73500,
+            "oPrice": "₹99,000"   
+        },
+        {
+            "id": 26,
+            "name": "ASUS ROG Strix G15",
+            "category": "Laptop",
+            "image": "https://m.media-amazon.com/images/I/71d1w3ivZ9L._SY450_.jpg",
+            "price": 76990,
+            "oPrice": "₹1,05,990"   
+        },
+        {
+            "id": 27,
+            "name": "Fossil Nate Chronograph",
+            "category": "watch",
+            "image": "https://m.media-amazon.com/images/I/61fy+u9uqPL._SX679_.jpg",
+            "price": 22000,
+            "oPrice": "₹23,900"
+
+        },
+        {
+            "id": 28,
+            "name": "OnePlus 10 Pro",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/61mIUCd-37L._SL1500_.jpg",
+            "price": 19500,
+            "oPrice": "₹21,000"
+
+        },
+        {
+            "id": 29,
+            "name": "OnePlus 10 R",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_SS450_.jpg",
+            "price": 35000,
+            "oPrice": "₹38,499"
+
+        },
+        {
+            "id": 30,
+            "name": "OnePlus Nord 2T",
+            "category": "Mobile",
+            "image": "https://m.media-amazon.com/images/I/617MPEZB5mL._SL1500_.jpg",
+            "price": 16500,
+            "oPrice": "₹19,000"
+
+        },
+        {
+            "id": 31,
+            "name": "OnePlus 11R 5G ",
+            "category": "Ipad",
+            "image": "https://m.media-amazon.com/images/I/41g1pQr8xUL._SX300_SY300_QL70_FMwebp_.jpg",
+            "price": 40999,
+            "oPrice": "₹44,999"
+        }
+    ]
+}
